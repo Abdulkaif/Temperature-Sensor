@@ -10,8 +10,7 @@ To get started with the temperature sensor project, follow these steps:
 Clone the repository: git clone https://github.com/Abdulkaif/Temperature-Sensor.git
 Install the required dependencies: pip install -r requirements.txt
 Connect the temperature sensor to your system.
-Run the main script: python temperature_sensor.py
-Follow the on-screen instructions to interact with the temperature sensor and perform operations on the temperature data.
+Run the script you want.
 ```
 
 ## Features
