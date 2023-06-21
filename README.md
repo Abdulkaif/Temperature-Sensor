@@ -19,7 +19,7 @@ Run the script you want.
 - Calculate the average temperature.
 - Print the current temperatures.
 - Display the current temperatures on 16X2 LCD Panel (if connected).
-#### To display the current temperatures on 16X2 LCD Panel run 'display temperature on lcd.py' AND To print the current temperatures run 'onboard_temp.py'.
+#### Note: To display the current temperatures on 16X2 LCD Panel run 'display temperature on lcd.py' AND To print the current temperatures run 'onboard_temp.py'.
 
 ## Contributing
 
@@ -40,7 +40,3 @@ Enjoy working with the temperature sensor project!
 
 
 
-
-
-
-- 
